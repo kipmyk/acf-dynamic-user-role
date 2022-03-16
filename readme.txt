@@ -1,9 +1,9 @@
-=== Disable Login Language Selector ===
-Contributors: kipmyk
+=== Change default role dynamically - ACF role-based conditions on user new / edit form ===
+Contributors: mikekipruto
 Tags: acf
-Requires at least: 5.9
-Tested up to: 5.9
-Stable tag: 1.0.1
+Requires at least: 5.5
+Tested up to: 5.9.2
+Stable tag: 1.0.2
 Requires PHP: 5.6
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -22,7 +22,7 @@ This a very simple plugin which is provided for ease of use: you need only to in
 1. This screen shot shows the language dropdown that will be hidden when this plugin is enabled.
 
 == Installation ==
-1. Upload the plugin package to the plugins directory of your site, or search for "Disable Login Language Selector" in the WordPress plugins directory from the Plugins section of your WordPress dashboard.
+1. Upload the plugin package to the plugins directory of your site, or search for "Change default role dynamically – ACF role-based conditions on user new / edit form" in the WordPress plugins directory from the Plugins section of your WordPress dashboard.
 2. Once uploaded or installed you must activate the plugin from the Plugins section of your WordPress dashboard.
 3. The language selector should no longer appear on the login screen of your site.
 
@@ -44,8 +44,19 @@ Check that the plugin has been correctly uploaded, installed and activated.
 
 == Changelog ==
 
+= 1.0.2 =
+Minor plugin changes
 = 1.0.1 =
 
+- update the pugin name
 - No functional changes, this update simply modifies the short description in plugin file to match what is written in the readme file description
 
 = 1.0 =
+
+== Upgrade Notice ==
+
+= 1.0.2 =
+Made some minor changes and update improve on security
+
+
+
