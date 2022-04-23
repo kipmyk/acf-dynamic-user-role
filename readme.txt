@@ -2,8 +2,8 @@
 Contributors: mikekipruto
 Tags: acf
 Requires at least: 5.5
-Tested up to: 5.9.2
-Stable tag: 1.0.2
+Tested up to: 5.9.3
+Stable tag: 1.0.4
 Requires PHP: 5.6
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -28,21 +28,22 @@ This a very simple plugin which is provided for ease of use: you need only to in
 
 == Frequently Asked Questions ==
 
-= What does this plugin do? =
-
-WordPress 5.9 added a new language selector to allow users to switch languages from a dropdown on the login screen if more than one language is enabled on your WordPress installation. This plugin provides a quick and easy way to prevent this language selector from appearing.
-
-It is a very simple plugin which is provided for ease of use: you need only to install and activate the plugin and it will prevent the language dropdown from appearing on the login screen of your site.
-
 = Why would I use this plugin? =
 
-This plugin will enable you change the ACF fields dynamically based on User form/edit while creating or updating users.
+This plugin will enable you change the ACF fields dynamically based on User form/edit or role while creating or updating users.
 
 = I have installed the plugin but I still not able to see the dynamic changes
 
 Check that the plugin has been correctly uploaded, installed and activated.
 
 == Changelog ==
+
+= 1.0.4 =
+Refactored code and fixed minor bug
+
+= 1.0.3 =
+1. Test on WordPress 5.9.3
+2. Tested with the latest ACF version
 
 = 1.0.2 =
 Minor plugin changes
