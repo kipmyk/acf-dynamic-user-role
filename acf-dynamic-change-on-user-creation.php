@@ -4,7 +4,7 @@
 * Description: Change default role dynamically on role selection change - ACF role-based conditions on user new / edit form
 * Version: 1.0.4
 * Author: Mike Kipruto
-* Author URI: kipmyk.co.ke
+* Author URI: https: https://kipmyk.co.ke
 **/
 
 // Change default role dynamically on role selection change
