@@ -41,6 +41,9 @@ Check that the plugin has been correctly uploaded, installed and activated.
 = 1.0.6 =
 Refactored code and tested on WP 6.1.1 and ACF 6.1.1
 
+= 1.0.5 =
+Tested on wp 6.0.3
+
 = 1.0.4 =
 Refactored code and fixed minor bug
 
