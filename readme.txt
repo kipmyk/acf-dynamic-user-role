@@ -1,5 +1,5 @@
 === ACF: Dynamic User Role ===
-Contributors: mikekipruto
+Contributors: mikekipruto,nathanbowen
 Donate link:https://www.buymeacoffee.com/kipmyk
 Tags: acf
 Requires at least: 5.5
@@ -39,7 +39,7 @@ Check that the plugin has been correctly uploaded, installed and activated.
 
 == Changelog ==
 = 1.0.6 =
-Refactored code and tested on WP 6.1.1 and ACF 
+Refactored code and tested on WP 6.1.1 and ACF 6.1.1
 
 = 1.0.4 =
 Refactored code and fixed minor bug
