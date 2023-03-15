@@ -2,9 +2,9 @@
 /**
 * Plugin Name: ACF: Dynamic User Role
 * Description: Change default role dynamically on role selection change - ACF role-based conditions on user new / edit form
-* Version: 1.0.6
+* Version: 1.0.7
 * Author: Mike Kipruto
-* Author URI: https: https://kipmyk.co.ke
+* Author URI: https://kipmyk.co.ke
 **/
 
 if( ! defined( 'ABSPATH' ) ) exit;
