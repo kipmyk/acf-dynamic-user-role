@@ -4,7 +4,7 @@ Donate link:https://www.buymeacoffee.com/kipmyk
 Tags: acf
 Requires at least: 5.5
 Tested up to: 6.1.1
-Stable tag: 1.0.6
+Stable tag: 1.0.7
 Requires PHP: 5.6
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -15,7 +15,7 @@ Change default role dynamically on role selection change  ACF role-based conditi
 
 While creating or editing users with ACF new / edit form, any changes made to the user roles, does not update the fields dynamically out of the box.
 
-This a very simple plugin which is provided for ease of use: you need only to install and activate the plugin and it will enable the change in dynamically/
+This a very simple plugin which is provided for ease of use: you need only to install and activate the plugin and it will enable the change in dynamically.
 
 
 == Screenshots ==
@@ -38,8 +38,11 @@ This plugin will enable you change the ACF fields dynamically based on User form
 Check that the plugin has been correctly uploaded, installed and activated.
 
 == Changelog ==
+= 1.0.7 =
+Fixed typo and tested on ACF 6.0.7
+
 = 1.0.6 =
-Refactored code and tested on WP 6.1.1 and ACF 6.1.1
+Refactored code and tested on WP 6.1.1 and ACF 6.0.1
 
 = 1.0.5 =
 Tested on wp 6.0.3
