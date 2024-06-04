@@ -2,9 +2,8 @@
 Contributors: mikekipruto,nathanbowen
 Donate link:https://www.buymeacoffee.com/kipmyk
 Tags: acf
-Requires at least: 7.0
-Tested up to: 6.3
-Stable tag: 1.0.7
+Tested up to: 6.5.3
+Stable tag: 1.0.8
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -38,6 +37,9 @@ This plugin will enable you change the ACF fields dynamically based on User form
 Check that the plugin has been correctly uploaded, installed and activated.
 
 == Changelog ==
+= 1.0.8 =
+Fixed some minor bugs and tested on ACF 6.3.0.1
+
 = 1.0.7 =
 Fixed typo and tested on ACF 6.0.7
 
@@ -67,5 +69,3 @@ Minor plugin changes
 
 = 1.0.2 =
 Made some minor changes and improved on security
-
-
